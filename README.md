@@ -9,19 +9,18 @@ I'm a self-taught developper.
 -Tables
 -Forms
 ### CSS
--Currently learning
+-Just started
 
 ### Javascript
 -Not started yet
 
 ## Projects
 
-### 1. Student Registration page
+### 1. Exploration frontpage
 -Currently working
 
 ## Currently Learning
 -Nothing for now, i'm working on my new project
 
 ## Next Goals
-- Start CSS
 - Start Javascript
