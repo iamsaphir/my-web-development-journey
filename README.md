@@ -9,10 +9,15 @@ I'm a self-taught developper.
 -Tables
 -Forms
 ### CSS
--Just started
+-45% done 
 
 ### Javascript
--Not started yet
+- Data types
+- arithmetic operators/operands
+- if statements
+- Functions
+- object
+
 
 ## Projects
 
@@ -20,7 +25,7 @@ I'm a self-taught developper.
 -Currently working
 
 ## Currently Learning
--Nothing for now, i'm working on my new project
+- Javascript
 
 ## Next Goals
-- Start Javascript
+- None
